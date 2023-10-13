@@ -1,0 +1,11 @@
+Model Information:
+* title:	Metal Tool Chest
+* source:	https://sketchfab.com/3d-models/metal-tool-chest-c372447be4d442d99ac0efff37f695e1
+* author:	TheoClarke (https://sketchfab.com/TheoClarke)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Metal Tool Chest" (https://sketchfab.com/3d-models/metal-tool-chest-c372447be4d442d99ac0efff37f695e1) by TheoClarke (https://sketchfab.com/TheoClarke) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

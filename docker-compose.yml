@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  galary:
+    build: "./"
+    ports:
+      - "4173:4173"
+
